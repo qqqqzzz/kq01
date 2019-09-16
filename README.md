@@ -1,2 +1,2 @@
 # kq01
-hello Python
+hello Python-本地
